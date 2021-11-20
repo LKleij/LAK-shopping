@@ -1,0 +1,13 @@
+.btn-login, .btn-register {
+    background: linear-gradient(90deg, rgb(166, 88, 202), rgb(73, 73, 196));
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+    padding-left: 2vh;
+    padding-right: 2vh;
+}
+
+.log-reg {
+    display: flex;
+    gap: 0.5vh;
+}
